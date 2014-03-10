@@ -10,8 +10,8 @@ public class InRomanNumerals {
         Arabic = changeArabicToRoman(Arabic, roman);
         if (Arabic < 1 || Arabic > 3999) {
             Arabic = 0;
-            System.out.println("³‚µ‚¢ƒ[ƒ}”š‚Ì‹L–@‚Å‚Í‚ ‚è‚Ü‚¹‚ñ");
-        }
+            System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½}ï¿½ï¿½ï¿½ï¿½ï¿½Ì‹Lï¿½@ï¿½Å‚Í‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½");
+        }//pull_request_test
         return Arabic;
     }
 
